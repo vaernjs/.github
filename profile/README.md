@@ -1,10 +1,9 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaernjs/.github/main/assets/vaernjs-logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaernjs/.github/main/assets/vaernjs-logo-light.svg">
-  <img alt="VaernJS" src="https://raw.githubusercontent.com/vaernjs/.github/main/assets/vaernjs-logo-emerald.svg" width="380">
-</picture>
+<a href="https://vaernjs.tech">
+  <img src="https://raw.githubusercontent.com/vaernjs/.github/main/assets/vaernjs-logo-white.svg#gh-dark-mode-only" alt="VaernJS" width="380">
+  <img src="https://raw.githubusercontent.com/vaernjs/.github/main/assets/vaernjs-logo-light.svg#gh-light-mode-only" alt="VaernJS" width="380">
+</a>
 
 <br/>
 <br/>

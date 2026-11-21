@@ -1,8 +1,7 @@
 <div align="center">
 
 <a href="https://vaernjs.tech">
-  <img src="https://raw.githubusercontent.com/vaernjs/.github/main/assets/vaernjs-logo-white.svg#gh-dark-mode-only" alt="VaernJS" width="380">
-  <img src="https://raw.githubusercontent.com/vaernjs/.github/main/assets/vaernjs-logo-light.svg#gh-light-mode-only" alt="VaernJS" width="380">
+  <img src="https://raw.githubusercontent.com/vaernjs/.github/main/assets/vaernjs-logo-white.svg" alt="VaernJS" width="380">
 </a>
 
 <br/>

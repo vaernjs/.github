@@ -156,7 +156,6 @@ We believe in documenting limitations with the same rigor as features:
 | Repository | Purpose | Status |
 |---|---|---|
 | [**`vaernjs/vaern`**](https://github.com/vaernjs/vaern) | Core engine written in Rust, QuickJS runtime integration, CLI, and npm packages | 🟢 Active |
-| [**`vaernjs/.github`**](https://github.com/vaernjs/.github) | Organization profile, community health standards, and global templates | 🟢 Active |
 
 ---
 
